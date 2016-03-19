@@ -1,11 +1,11 @@
 # Site settings
-title: Adrian's Profile
-email: hello@wheelhouse.io
+title: Martin's Cookie Cave
+email: cookiesrock@wheelhouse.io
 description: > # this means to ignore newlines until "baseurl:"
-  Learn to use GitHub pages with Wheelhouse.io and Patchwork!
+  Tell the world that Martin loves cookies!
 baseurl: "/project-gh-pages"
-url: "http://wheehouseio.github.io"
-twitter_username: WheelhouseIO
+url: "http://coffeecow.github.io"
+twitter_username: martin<3cookie
 github_username:  wheelhouseio
 permalink: /blog/:year/:title/
 
