@@ -4,7 +4,7 @@ email: cookiesrock@wheelhouse.io
 description: > # this means to ignore newlines until "baseurl:"
   Tell the world that Martin loves cookies!
 baseurl: "/project-gh-pages"
-url: "http://coffeecow.github.io"
+url: "http://CoffeeCow.github.io"
 twitter_username: martin<3cookie
 github_username:  wheelhouseio
 permalink: /blog/:year/:title/
