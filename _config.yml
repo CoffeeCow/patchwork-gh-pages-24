@@ -1,0 +1,21 @@
+# Site settings
+title: Martin's Cookie Cave
+email: cookiesrock@wheelhouse.io
+description: > # this means to ignore newlines until "baseurl:"
+  Tell the world that Martin loves cookies!
+baseurl: "/project-gh-pages"
+url: "http://CoffeeCow.github.io"
+twitter_username: martin<3cookie
+github_username:  wheelhouseio
+permalink: /blog/:year/:title/
+
+
+# Build settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+
+collections:
+    - index
